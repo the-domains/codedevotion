@@ -1,0 +1,14 @@
+layout_spectrum: 0.36584683042019606
+typography_spectrum: 0.32117901113815606
+color:
+  brandStrength: 0.7415252081118524
+  lightness: 0.6238770049531013
+  saturation: 0.5954209193587303
+  rhythmicContrast: 0.471775688463822
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: CodeDevotion
